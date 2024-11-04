@@ -62,7 +62,7 @@ Use one of the following options to set up your environment.
 
 - Click the following button to set up the environment.
 
-  [![Setup Local Dev Container](https://img.shields.io/static/v1?label=Local%20Dev%20Container&message=Setup&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/ecs36c-sq2024/hw3)
+  [![Setup Local Dev Container](https://img.shields.io/static/v1?label=Local%20Dev%20Container&message=Setup&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/ecs36c-fq2024/hw3)
 
 - When asked for selecting a Kit to configure CMake, choose **GCC**.
 
@@ -74,7 +74,7 @@ Use one of the following options to set up your environment.
 
 - Run the following command inside the integrated terminal.
 
-  `git clone https://github.com/ecs36c-sq2024/hw3 ecs36c-hw3`
+  `git clone https://github.com/ecs36c-fq2024/hw3 ecs36c-hw3`
 
 - Run `code ./ecs36c-hw3` to open the folder.
 
@@ -86,7 +86,7 @@ Use one of the following options to set up your environment.
 - Run the following commands
 
   ```bash
-  git clone https://github.com/ecs36c-sq2024/hw3 ecs36c-hw3
+  git clone https://github.com/ecs36c-fq2024/hw3 ecs36c-hw3
   cd ./ecs36c-hw3
   mkdir build
   cd build
